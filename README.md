@@ -12,4 +12,4 @@ Download the t_shop.tbl file and drop it in \THE LEGEND OF HEROES KURO NO KISEKI
 
 Short Answer: It's a meta joke
 
-Long Answer: In the 5th chapter of the Agnes's style spin off manga, Yumé gets Agnès to try on various outfits that belong to Paulette, and the Golden Blood Suit is one of them. So, I placed the unobtainable DLC items there as a meta joke on Paulette getting them for you.
+Long Answer: In the 5th chapter of the Agnes's style spin off manga, Yumé gets Agnès to try on various outfits that belong to Paulette, and the Golden Blood Suit is one of them. So, I decided to place the unobtainable DLC outfits there as a meta joke of Paulette somehow getting them for you.

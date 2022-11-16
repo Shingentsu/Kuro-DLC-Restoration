@@ -1,6 +1,6 @@
 # Kuro-DLC-Restoration
 
-This mod restores two DLCs which were not available with Steam release of Kuro no Kiseki. The two DLCs are the Old Kingdom Dress for Agnes and the Golden Blood Suit for Judith. This mod is meant to work with the CLE release of Kuro no Kiseki, and is compatible with both of the language settings available.
+This mod restores two DLCs which were not available with Steam release of Kuro no Kiseki. The two DLCs are the Old Kingdom Dress for Agnes and the Golden Blood Suit for Judith. This mod is meant to work with the CLE release of Kuro no Kiseki, and is compatible with both of the language options (TC & KR) available.
 
 # Using the mod
 

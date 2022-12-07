@@ -8,6 +8,8 @@ Download the t_shop.tbl file and drop it in \THE LEGEND OF HEROES KURO NO KISEKI
 
 (To open the Kuro files, go to Steam->Right Click on Kuro no Kiseki->Manage->Browse local files to open the \THE LEGEND OF HEROES KURO NO KISEKI directory.)
 
+Once this is done, please go to Paulette and open the 'Monmart Bistro' Shop. The two items should be available for purchase at 100 Mira each.
+
 # Why Paulette's shop specifically?
 
 Short Answer: It's a meta joke
